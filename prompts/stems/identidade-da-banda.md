@@ -3,6 +3,15 @@
 > Todos os stems devem soar como gravados pela mesma banda, com os mesmos instrumentos, na mesma sala, no mesmo dia.
 >
 > **Princípio estético fundamental:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz. Os instrumentos são de samba (surdo, tantã, pandeiro, cavaquinho, banjo), tocados por músicos de samba. O que queremos evitar é a agressividade e o brilho excessivo de uma gravação pop/rock genérica — não queremos transformar samba em jazz.
+
+**O QUE É SAMBA (para o modelo não esquecer):**
+- Acento no tempo 2, não no tempo 1
+- Surdo faz bum-pa (grave no 1, agudo no 2)
+- Caixa faz ghost notes contínuas, NÃO backbeat
+- Bumbo marca o tempo 1 junto com o surdo, é subtutil, não esmagador
+- Prato conduz em semicolcheia, sem gritar
+- A bateria NÃO soa como rock, NÃO soa como jazz, soa como SAMBA
+- Se soa como rock com surdo, está errado — deve soar como pagode de mesa
 >
 > Abaixo, a especificação do kit por naipe.
 

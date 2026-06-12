@@ -4,6 +4,14 @@
 
 **Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
 
+**ESTA É UMA STEM DE BATERIA DE SAMBA, NÃO DE ROCK. NÃO DE POP. NÃO DE JAZZ.**
+- Acento no tempo 2, NÃO no tempo 1
+- Surdo faz bum-pa (grave no 1, agudo no 2) — NÃO bumbo de rock
+- Caixa faz ghost notes contínuas em semicolcheia — NÃO backbeat no 2 e 4
+- Bumbo marca o tempo 1 junto com o surdo — é sutil, não dominante
+- Prato conduz em semicolcheia aberta — NÃO chimbal fechado constante
+- Se a stem soa como bateria de rock com um surdo, está ERRADO
+
 | Instrumento | Modelo / Referência | Detalhes |
 |---|---|---|
 | Surdo | 18" com couro natural (Contemporânea ou Gope) | Afinação grave, baqueta com feltro. Couro natural = mais corpo e warmth. É o coração da bateria de samba |
@@ -55,6 +63,10 @@ Prato:  x . x . x . x . | x . x . x . x .
 2. **Caixa ghost notes**: As ghost notes da caixa podem ser confundidas com percussão de mão (tantã, pandeiro). A caixa tem esteira audível em ~2-3kHz.
 3. **Prato vs chocalho/ganzá**: Ambos operam em altas frequências. O prato tem harmônicos metálicos mais espalhados; o chocalho é mais focado e ritmicamente constante.
 4. **Bumbo vs surdo**: No pagode com bumbo, ambos tocam no tempo 1. O bumbo tem ataque mais definido; o surdo tem mais corpo e ressonância do couro.
+5. **VAZAMENTO DE TECLADO NA STEM DE BATERIA (problema comum)**: A mão esquerda do teclado/piano toca oitavas na faixa de ~65-250Hz, exatamente onde ficam o surdo e o bumbo. A mão direita toca acordes em ~300Hz-2.5kHz, sobrepondo com o prato e o agogô. Se o algoritmo de separação estiver vazando teclado na stem de bateria, identifique pelo padrão rítmico: o teclado ataca no contratempo (2ª semicolcheia de cada tempo) com acordes harmônicos (3-4 notas simultâneas), enquanto o surdo/bombo ataca no tempo 1 com notas únicas percussivas. O prato tem som metálico contínuo; o teclado tem transientes pianísticos com decay harmônico. Se ouvir acordes de teclado na stem de bateria, não é bateria — é vazamento que deve ser removido.
 
 ### Contexto de Mistura
 No samba/pagode, a bateria **conversa** com a percussão e o baixo. O surdo e o bumbo formam a fundação rítmica junto com o tantã e o chocalho. A caixa é textura. A bateria de samba não é dominante como no rock — mas também não é tímida como no jazz. Ela marca presença com gosto.
+
+### O que NÃO é bateria de samba
+Se a stem contém: backbeat forte no 2 e 4 (como rock), bumbo com click agressivo de estúdio pop, caixa com snap brilhante, pratos espumantes com muito wash, tons usados constantemente — não é bateria de samba, é bateria de rock/pop. A bateria de samba tem surdo no lugar de bumbo dominante, caixa com ghost notes sutis (não backbeat), e prato que conduz sem gritar.
