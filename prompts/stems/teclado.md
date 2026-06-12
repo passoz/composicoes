@@ -1,6 +1,18 @@
 # Stem: Teclado — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos. Piano acústico para samba; E.Piano (DX7/Rhodes) para pagode. O teclado de samba é percussivo e staccato — ataque definido, notas curtas, sem sustentação lírica.
+## Kit Fixo (autocontido — copiar integralmente)
+
+**Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
+
+| Contexto | Instrumento | Detalhes |
+|---|---|---|
+| Samba | Piano acústico (Yamaha C3 ou similar) | Som natural da caixa, ataque staccato, pouco pedal de sustain |
+| Pagode | E.Piano (Yamaha DX7, Rhodes, ou Korg M1) | É o som do pagode — não tem como fugir. Ataque curto, pouco decay, brilho presente mas não agressivo |
+| Contemporâneo | Piano digital (Nord Stage, Yamaha CP) | Mais corpo que o DX7 anos 90, ataque definido |
+
+**Timbre alvo:** o teclado no samba/pagode é percussivo e staccato — ataque definido, notas curtas, sem sustentação lírica. A mão direita ataca como cavaquinho; a mão esquerda como baixo. O E.Piano anos 90 é parte do som do pagode, não é pra ter vergonha dele.
+
+**Gravação:** piano acústico com microfonia de sala (overheads compartilhados com percussão). E.Piano por DI. Mesma sala, mesma sessão, mesma banda para todos os stems.
 
 ## Identificação Sonora
 

@@ -1,6 +1,22 @@
 # Stem: Cordas — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (violão nylon Giannini DN-30, cavaquinho Giannini D-G-B-E, banjo Delvecchio 4 cordas). Cordas de samba — com balanço e presença, não com timidez.
+## Kit Fixo (autocontido — copiar integralmente)
+
+**Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
+
+| Instrumento | Modelo / Referência | Detalhes |
+|---|---|---|
+| Violão nylon | Giannini DN-30 ou Di Giorgio Classic | Cordas de nylon, corpo em cedro. É o violão de samba, o mais usado |
+| Violão aço | Dreadnought com phosphor-bronze | Para pagode anos 90 em diante. Mais brilho e ataque |
+| Cavaquinho | Giannini ou Walther (afinação D-G-B-E) | Cordas de aço, corpo pequeno. Agudo, cortante, mete o dente — é assim que tem que ser |
+| Banjo | Delvecchio 4 cordas (afinação D-G-B-E) | Corpo de alumínio, anel de madeira. Estridente e metálico, como todo banjo de pagode deve ser |
+
+**Timbre alvo:**
+- Violão: o "tapa" deve soar percussivo mas com pitch — sujo, com calor, como numa roda de samba
+- Cavaquinho: palmetada precisa e uniforme, agudo e cortante. O cavaquinho de samba é metade do que segura a música — não é pra ser tímido
+- Banjo: ataque presente e cortante, mais brilho que o cavaquinho. O banjo de pagode tem que furar a mistura
+
+**Gravação:** violão e cavaquinho com mic de proximidade + mic de sala (overheads compartilhados). Banjo com mic de proximidade. Mesma sala, mesma sessão, mesma banda para todos os stems.
 
 ## Identificação Sonora
 

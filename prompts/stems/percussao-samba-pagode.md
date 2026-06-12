@@ -1,6 +1,23 @@
 # Stem: Percussão — Samba & Pagode (Carioca)
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (pandeiro Contemporânea Pro 12" pele de cabra, tantã Contemporânea 40cm+50cm, tamborim 6", agogô aço, reco-reco alumínio, cuíca 10"). Mesmos instrumentos, mesma sala, em toda a sessão.
+## Kit Fixo (autocontido — copiar integralmente)
+
+**Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
+
+| Instrumento | Modelo / Referência | Detalhes |
+|---|---|---|
+| Pandeiro | Contemporânea Pro (pele de cabra) ou Gope | 12", platinelas de metal. O pandeiro de samba tem que ter platinela audível e pele com corpo |
+| Tantã (par) | Contemporânea 40cm + 50cm | Um marca o tempo, outro faz variações. Pele de cabra ou nylon |
+| Repique de mão | Contemporânea ou Gope | 10"-12", pele de nylon. Tocado com as mãos |
+| Tamborim | Contemporânea 6" | Pele de nylon. Vareta plástica (escola) ou baqueta de madeira (mesa) |
+| Agogô | Aço, dois sinos (Gope ou Contemporânea) | Sino grave ~1.5kHz, sino agudo ~3kHz. Baqueta de madeira |
+| Reco-reco | Alumínio (Contemporânea) | Corpo metálico, som de grilo. Pode ser madeira (mais warm) |
+| Chocalho / ganzá | Metal (Contemporânea) | Cilindro com contas de metal ou sementes |
+| Cuíca | Contemporânea 10" ou 12" | Pele de cabra. Tocada com pano úmido no bastão interno |
+
+**Timbre geral da percussão:** a percussão de samba é gravada em sala com ar e reflexão natural — não em booth morto, não com compressão agressiva. As platinelas do pandeiro, o chocalho do ganzá e o reco-reco são parte fundamental do som, não são pragas pra serem filtradas.
+
+**Gravação:** percussão gravada em sala com overheads de ambiente compartilhados com a bateria, criando cola acústica natural. Mesma sala, mesma sessão, mesma banda para todos os stems.
 
 ## Identificação Sonora
 

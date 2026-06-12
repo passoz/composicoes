@@ -1,6 +1,18 @@
 # Stem: Baixo — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos. Fender Jazz Bass com roundwound, amplificação valve ou DI quente. É o baixo de samba — com presença, cut e ataque, não um upright de jazz nem um baixo de funk.
+## Kit Fixo (autocontido — copiar integralmente)
+
+**Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
+
+| Elemento | Especificação | Detalhes |
+|---|---|---|
+| Instrumento | Fender Jazz Bass | É o baixo de samba/pagode, ponto. Cordas roundwound (.045-.100) para o som clássico |
+| Amplificação | Combo valve ou DI direto | Timbre quente com ataque definido. O baixo de samba tem presença e cut — não fica soterrado nem grita |
+| Técnica | Polegar (dedilhado) para samba; palheta média para pagode | Sem slap, sem tap, sem funk. O ataque do polegar dá o "click" característico do baixo de samba |
+
+**Timbre alvo:** ataque percussivo definido (o "click" do polegar/palheta), corpo quente em ~100-200Hz, presença em ~1-3kHz. O baixo de samba precisa ter cut e definição pra conversar com o surdo — não é um baixo que fica no fundo, é um baixo que marca. Mas marca com gosto, não com brutalidade.
+
+**Gravação:** sala média com reflexão natural (RT60 ~0.8-1.2s). DI + mic na caixa do combo para mistura. Mesma sala, mesma sessão, mesma banda para todos os stems.
 
 ## Identificação Sonora
 

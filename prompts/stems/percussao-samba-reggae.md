@@ -1,6 +1,24 @@
 # Stem: Percussão — Samba Reggae (Bahia)
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (surdo 22-24" Gope/RMV, repinique 12"x30cm, caixa 14"x8", agogô aço, xequerê, afuxé). Mesmos instrumentos, mesma sala aberta (terreiro), em toda a sessão.
+## Kit Fixo (autocontido — copiar integralmente)
+
+**Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
+
+| Instrumento | Modelo / Referência | Detalhes |
+|---|---|---|
+| Surdo marcação | 22" ou 24" (Gope, Contemporânea, RMV) | Couro natural, afinação mais grave que o carioca. Baqueta com feltro grande |
+| Surdo resposta | 18" ou 20" | Afinação média-grave. Responde ao surdo de marcação |
+| Repinique | 12"x30cm (Contemporânea ou RMV) | Tocado com duas baquetas. Pele de nylon |
+| Caixa | 14"x8" (RMV ou similar) | Esteira mais tensa que no carioca. Som seco e alto |
+| Agogô | Aço, dois sinos | Padrão sincopado (diferente do carioca) |
+| Xequerê | Cabaça grande com rede de contas | Som de chocalho + ressonância de cabaça (~200-500Hz) |
+| Afuxé | Bastão com contas (sementes ou plástico) | Associado a Oxóssi. Som ~4-12kHz |
+| Tamborim | 6" (RMV ou Contemporânea) | Padrões mais longos e sincopados que o carioca |
+| Ganzá | Metal (Contemporânea) | Mesma função de metrônomo, mas mais lento (70-90 BPM) |
+
+**Timbre geral:** mais grave, mais lento, mais hipnótico que o carioca. A sala ideal é aberta — como um terreiro ou rua. Os surdos são o coração; tudo o mais orbita ao redor deles.
+
+**Gravação:** percussão gravada em sala aberta (terreiro), com overheads de ambiente. Mais reverb que o samba carioca — a ressonância dos surdos é parte do som. Mesma sala, mesma sessão, mesma banda para todos os stems.
 
 ## Identificação Sonora
 

@@ -1,6 +1,21 @@
 # Stem: Bateria — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (surdo 18" Contemporânea/Gope, caixa Ludwig Acrolite 14"x6.5", bumbo 20", ride/crash Zildjian A Custom ou Istanbul). Toda a bateria soa como gravada na mesma sala, mesma sessão. É uma bateria de samba, não de jazz nem de rock.
+## Kit Fixo (autocontido — copiar integralmente)
+
+**Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
+
+| Instrumento | Modelo / Referência | Detalhes |
+|---|---|---|
+| Surdo | 18" com couro natural (Contemporânea ou Gope) | Afinação grave, baqueta com feltro. Couro natural = mais corpo e warmth. É o coração da bateria de samba |
+| Caixa | 14"x6.5" (Ludwig Acrolite ou similar em alumínio) | Afinação média-baixa, esteira ligada mas solta. A caixa de samba tem corpo, ressonância, e a esteira sutiliza — não é snap de rock, é textura |
+| Bumbo | 20" com couro batida (Remo Emperor ou similar) | Ataque definido mas não seco demais. O bumbo no pagode marca o tempo junto com o surdo — tem que ter corpo |
+| Prato de condução | 20" ride/crash-ride (Zildjian A Custom ou Istanbul) | Brilho moderado, wash controlado. O prato de samba não é dark de jazz — é brilhante o suficiente pra cortar a mistura, mas não espumante de rock |
+| Chimbal | 14" (Zildjian New Beat ou similar) | Quase nunca usado constante; aparece esparso em viradas e transições |
+| Tons | 12" e 14" | Usados só em viradas. Afinação média |
+
+**Timbre geral do kit:** a bateria de samba soa como uma bateria de samba — surdo com corpo, caixa com esteira audível mas não invasiva, bumbo presente mas não esmagador, prato que conduz sem gritar. Gravada em sala com ar e microfonia natural. Não é processada como rock, não é mansa como jazz.
+
+**Gravação:** sala média com reflexão natural (RT60 ~0.8-1.2s). Overheads de ambiente compartilhados entre bateria e percussão, criando cola acústica natural. Mesma sala, mesma sessão, mesma banda para todos os stems.
 
 ## Identificação Sonora
 

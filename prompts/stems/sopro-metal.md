@@ -1,6 +1,18 @@
 # Stem: Sopro/Metal — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (trompete Bach Stradivarius 37, trombone King 3B, sax tenor Selmer Mark VI). Metais de samba — com presença e calor, não com brutalidade de rock.
+## Kit Fixo (autocontido — copiar integralmente)
+
+**Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
+
+| Instrumento | Modelo / Referência | Detalhes |
+|---|---|---|
+| Trompete | Bach Stradivarius 37 (Si♭) | Bocal médio (3C ou 5C). Som brilhante com presença, mas sem stridência |
+| Trombone | King 3B (tenor) ou Bach 42BO | Bocal médio. Glissandos fluidos, som quente |
+| Sax tenor | Selmer Mark VI ou Reference 54 | Bocal médio-aberto (8 ou 9). Som cheio, vibrato expressivo quando necessário |
+
+**Timbre alvo:** metais em bloco, ataques curtos e definidos, com presença natural. Os metais de samba cortam — são feitos pra se ouvir em cima do surdo e do cavaquinho. Mas cortam com calor, não com brutalidade de metal de rock. O bloco de metais de samba é direto e cheio, não é big band suave nem hardcore agressivo. Sem plunger, sem harmon mute. Som aberto (open) com ocasional hand-stop no trompete.
+
+**Gravação:** seção de metais gravada em sala com ar, mic de cada instrumento + overhead da seção. Mesma sala, mesma sessão, mesma banda para todos os stems.
 
 ## Identificação Sonora
 
