@@ -1,6 +1,6 @@
 # Stem: Sopro/Metal — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (trompete Bach Stradivarius 37, trombone King 3B, sax tenor Selmer Mark VI). Mesmos instrumentos, mesmos bocais, em toda a sessão.
+> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (trompete Bach Stradivarius 37, trombone King 3B, sax tenor Selmer Mark VI). Metais de samba — com presença e calor, não com brutalidade de rock.
 
 ## Identificação Sonora
 
@@ -14,17 +14,17 @@ Os metais no samba/pagode **não são como big band americana**. A diferença es
 
 | Samba/Pagode | Big Band Americana |
 |---|---|
-| Staccato curto e preciso, ataques definidos | Notas longas, sostenuto |
+| Staccato curto e definido, notas com ataque | Notas longas, sostenuto |
 | Uníssono rítmico (todos na mesma nota, oitavas diferentes) | Harmonias em 4-5 partes, spreads |
 | Frases curtas de 2-4 compassos em loop | Desenvolvimento melódico longo |
-| Arranjo em bloco ("parede de som") | Arranjo aberto, texturas variadas |
-| Warmth e presença, sem brutalidade | Som limpo e blendado |
+| Arranjo em bloco —似 "parede de som" | Arranjo aberto, texturas variadas |
+| Presença e calor, sem brutalidade | Som limpo e blendado |
 
 ### Frequências-Chave para Separação
 | Instrumento | Faixa Dominante | Característica |
 |---|---|---|
 | Trompete (fundamental) | 300Hz-1.2kHz | Agudo, brilhante, cortante |
-| Trompete (brilho) | 2-8kHz | Ataque, growl, highs metálicos |
+| Trompete (brilho) | 2-8kHz | Ataque, brightness, definition |
 | Trombone (fundamental) | 150-500Hz | Médio, encorpado |
 | Trombone (brilho) | 1-4kHz | Ataque, glissando audível |
 | Sax tenor (fundamental) | 100-600Hz | Médio-quente, breathy |
@@ -35,11 +35,11 @@ Os metais reforçam o contratempo em uníssono com o cavaquinho e violão:
 
 ```
 Cavaquinho: . x . x . x . x
-Metais:     . x . x . x . x   (mesmo ataque, 8va acima, com growl)
+Metais:     . x . x . x . x   (mesmo ataque, 8va acima)
 ```
 
 - Acentuação **sempre no contratempo** (2ª semicolcheia de cada tempo)
-- Staccato curto e preciso: notas definidas, mas sem brutalidade — é samba, não rock
+- Staccato curto e definido: notas com ataque, mas sem brutalidade — é samba, é pra cortar a mistura, não pra mata-la
 - Repetição de riffs curtos (2-4 compassos), não desenvolvimento temático
 - Arranjos **em bloco**, não abertos
 
