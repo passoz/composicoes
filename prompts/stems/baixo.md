@@ -1,72 +1,45 @@
 # Stem: Baixo — Samba & Pagode Brasileiro
 
-## Kit Fixo (autocontido — copiar integralmente)
+## SOAR COMO
 
-**Princípio:** esta banda toca samba e pagode brasileiro. O som deve ser quente, orgânico e com balanço — como uma roda de samba de mesa bem micada, não como um show de rock nem como um clube de jazz.
+Baixo de samba. Baixaria de roda de samba. NÃO walking bass de jazz, NÃO slap bass de funk, NÃO baixo de pop genérico.
 
-| Elemento | Especificação | Detalhes |
-|---|---|---|
-| Instrumento | Fender Jazz Bass | É o baixo de samba/pagode, ponto. Cordas roundwound (.045-.100) para o som clássico |
-| Amplificação | Combo valve ou DI direto | Timbre quente com ataque definido. O baixo de samba tem presença e cut — não fica soterrado nem grita |
-| Técnica | Polegar (dedilhado) para samba; palheta média para pagode | Sem slap, sem tap, sem funk. O ataque do polegar dá o "click" característico do baixo de samba |
+**Referências:** Jorginho do Contrabaixo (Beth Carvalho), Délcio Luiz (Grupo Raça, Art Popular), baixistas do Fundo de Quintal.
 
-**Timbre alvo:** ataque percussivo definido (o "click" do polegar/palheta), corpo quente em ~100-200Hz, presença em ~1-3kHz. O baixo de samba precisa ter cut e definição pra conversar com o surdo — não é um baixo que fica no fundo, é um baixo que marca. Mas marca com gosto, não com brutalidade.
+## O QUE TOCAR
 
-**Gravação:** sala média com reflexão natural (RT60 ~0.8-1.2s). DI + mic na caixa do combo para mistura. Mesma sala, mesma sessão, mesma banda para todos os stems.
+- Fender Jazz Bass com roundwound: ataque percussivo do polegar (samba) ou palheta (pagode)
+- Fundamental no tempo 1, passing tone cromática entre 1 e 2, nota de resolução no contratempo do 2
+- Notas esparsas: 2-3 notas por compasso, muito silêncio entre elas
+- Staccato: notas curtas, decay rápido, não sustain
+- O baixo CONVERSA com o surdo, não compete com ele
 
-## Identificação Sonora
-
-### Contrabaixo Elétrico — O Baixo de Samba
-O baixo no samba/pagode não é walking bass de jazz. É um contraponto rítmico que desenha a harmonia enquanto conversa com o surdo.
-
-**Características timbricas:**
-- **Ataque percussivo**: o baixista brasileiro ataca as notas com o polegar (dedilhado) ou palheta, produzindo um som com "click" definido — o baixo de samba tem cut e presença
-- **Registro médio-grave** no samba (~80-250Hz fundamental), **médio-agudo** no pagode (~100-400Hz fundamental)
-- **Staccato**: notas curtas, muito silêncio entre notas — o espaço é tão importante quanto o som
-- **Decay rápido**: notas não se arrastam como no funk
-
-### Frequências-Chave para Separação
-| Elemento | Faixa Dominante | Característica |
-|---|---|---|
-| Fundamental | 65-200Hz | Notas principais |
-| Ataque / click do polegar | 500Hz-2kHz | Transiente percussivo definido |
-| Harmônicos de palheta | 1-4kHz | Presente no pagode com palheta |
-| Slides / gliss | 80-300Hz (varredura) | Transição cromática entre notas |
-
-### Padrão Rítmico Característico
 ```
 | G . . . F . E . | C . . . B . A . |
   1   e   2   e     1   e   2   e
-
-Fundamental no tempo 1 → passing tone cromática → nota de preparação no tempo 2
 ```
 
-- **Tempo 1**: fundamental do acorde (G, C, etc.)
-- **Entre 1 e 2**: passing tone cromática ou diatônica (F no G7, B no C7M)
-- **Tempo 2**: terça, quinta ou sétima do acorde seguinte ou de preparação (E, A)
+## O QUE NÃO TOCAR
 
-### Baixaria vs Walking Bass — Como Distinguir
-| Baixaria (samba/pagode) | Walking Bass (jazz) |
-|---|---|
-| Notas esparsas, muito silêncio | Notas contínuas, preenchendo tudo |
-| Staccato, ataque percussivo | Legato, notas conectadas |
-| 2-3 notas por compasso | 4 notas por compasso |
-| Passing tones cromáticas | Arpejos e escala diatônica |
-| Conversa com o surdo | Conversa com o bumbo e o prato |
+- NÃO walking bass (isso é jazz)
+- NÃO notas contínuas preenchendo tudo
+- NÃO slap, tap, ou funk
+- NÃO sustain longo como ballad
+- NÃO arpejos diatônicos (use passing tones cromáticas)
+- NÃO dissonância sustentada (9ª, 11ª, 13ª são notas de passagem, não se segura)
 
-### Pagode vs Samba — Diferenças no Baixo
-| | Samba | Pagode |
-|---|---|---|
-| Notas | Menos notas, mais espaços | Mais notas, mais staccato |
-| Registro | Médio-grave | Médio-agudo, "puxadas" pra oitava |
-| Técnica | Polegar (dedilhado) | Polegar ou palheta |
-| Timbre | Mais round, mais warm | Mais percussivo, mais cut |
+## TIMBRE
 
-### Nota de Apoio
-Quando a harmonia pede tensão (9ª, 11ª, 13ª), o baixista brasileiro **não sustenta** — passa por ela como nota de aproximação, resolvendo na terça ou sétima no contratempo. Isso evita dissonância prolongada que descaracteriza o samba.
+- Jazz Bass com roundwound, timbre quente com ataque definido
+- O "click" do polegar é parte do som — é percussivo mas com pitch
+- Samba: mais grave, mais round, mais espaço
+- Pagode: mais agudo, mais staccato, mais notas, pode usar palheta
+- Amplificação valve quente, não distorção rock
+- O baixo de samba tem presença e cut — marca, não fica no fundo
 
-### Armadilhas Comuns na Separação
-1. **Baixo vs surdo**: Compartilham 60-100Hz. O baixo tem notas com pitch definido e movimento melódico; o surdo tem dois pitches (grave/agudo) repetitivos e sem movimento melódico.
-2. **Baixo vs tantã**: O tantã pode ter notas com pitch variável, mas o padrão é mais percussivo e repetitivo. O baixo tem frases melódicas mais longas.
-3. **Ataque percussivo do baixo**: O "click" do polegar pode ser confundido com caixa ou percussão. A frequência do click do baixo está em ~500Hz-2kHz, enquanto a caixa está mais em ~2-5kHz.
-4. **Slides do baixo pagodeiro**: Glissandos curtos entre notas são característicos. Não confundir com slides de banjo (que estão oitava acima).
+## DIFERENÇA SINTOMÁTICA
+
+Soa como samba: notas esparsas, staccato, passing tones cromáticas, conversa com o surdo.
+Soa como jazz: notas contínuas, legato, arpejos diatônicos, walking bass.
+Soa como funk: slap, tap, syncopa agressiva, grooves complexos.
+Soa como pop: notas longas sustentadas, pouco movimento, root note no 1 e 5.
