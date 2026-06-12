@@ -14,11 +14,11 @@ Os metais no samba/pagode **não são como big band americana**. A diferença es
 
 | Samba/Pagode | Big Band Americana |
 |---|---|
-| Staccato agressivo, ataques curtíssimos | Notas longas, sostenuto |
+| Staccato curto e preciso, ataques definidos | Notas longas, sostenuto |
 | Uníssono rítmico (todos na mesma nota, oitavas diferentes) | Harmonias em 4-5 partes, spreads |
 | Frases curtas de 2-4 compassos em loop | Desenvolvimento melódico longo |
 | Arranjo em bloco ("parede de som") | Arranjo aberto, texturas variadas |
-| Growl e dirt no som | Som limpo e blendado |
+| Warmth e presença, sem brutalidade | Som limpo e blendado |
 
 ### Frequências-Chave para Separação
 | Instrumento | Faixa Dominante | Característica |
@@ -39,7 +39,7 @@ Metais:     . x . x . x . x   (mesmo ataque, 8va acima, com growl)
 ```
 
 - Acentuação **sempre no contratempo** (2ª semicolcheia de cada tempo)
-- Staccato agressivo: notas curtíssimas, quase abafadas
+- Staccato curto e preciso: notas definidas, mas sem brutalidade — é samba, não rock
 - Repetição de riffs curtos (2-4 compassos), não desenvolvimento temático
 - Arranjos **em bloco**, não abertos
 
@@ -59,5 +59,5 @@ O saxofone tenor no samba pode usar vibrato intenso e lábio tenso em notas long
 1. **Trompete vs cavaquinho**: Compartilham a faixa de ~1-4kHz em timbre e padrão rítmico. O trompete tem brilho mais metálico e harmônicos mais intensos; o cavaquinho tem timbre de corda dedada com mais "ruído" de ataque.
 2. **Trombone vs tantã/rePique**: O trombone em registro médio (~150-500Hz) pode se sobrepor a percussão de mão. O trombone tem pitch definido e frases melódicas; a percussão tem padrões mais repetitivos e menos melódicos.
 3. **Sax tenor vs baixo**: O sax em registro grave (~100-300Hz) pode se sobrepor ao baixo. O sax tem timbre breathy e vibrato; o baixo tem ataque percussivo distinto e movimento cromático característico.
-4. **Staccato dos metais vs caixa**: O staccato agressivo dos trompetes pode ter transientes parecidos com ghost notes de caixa. A diferença: os metais tocam em frases (não contínuo) e sempre em uníssono.
+4. **Staccato dos metais vs caixa**: O staccato definido dos trompetes pode ter transientes parecidos com ghost notes de caixa. A diferença: os metais tocam em frases (não contínuo) e sempre em uníssono.
 5. **Growl de trompete vs vocal**: O growl pode ser confundido com vocais roucos. O growl tem frequência fundamental estável com harmônicos irregulares; a voz tem formantes variáveis.

@@ -1,27 +1,27 @@
 # Stem: Bateria — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (surdo 18" Gope/Contemporânea, caixa Ludwig Acrolite 14"x6.5", bumbo 20", prato ride 20" Istanbul/Zildjian). Toda a bateria soa como gravada na mesma sala, mesma sessão.
+> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (surdo 18-20" Gope/Contemporânea, caixa maple 14"x5", bumbo 18-20" com couro natural, dark ride Bosphorus/Istanbul Agop). Abordagem jazzística — como um baterista de jazz tocando samba, não rock.
 
 ## Identificação Sonora
 
-### Kit de Pagode (Samba de Mesa)
+### Kit Acústico (Samba Contemporâneo)
 Instrumentos principais na mistura:
-- **Surdo** (18-20"): golpe grave no tempo 1 ("bum"), golpe agudo/slap no tempo 2 ("pa"). Frequência fundamental ~60-100Hz, harmônicos até ~800Hz. O som do surdo no pagode é seco, curto, com decay rápido — não é o surdo arrastado da escola de samba.
-- **Caixa** (14"): ghost notes contínuas em semicolcheia, sem backbeat. Frequência ~150-250Hz para o corpo, ~2-5kHz para o estalo do aro. O som é médio-grave, esteira ligada mas não tensa.
-- **Bumbo** (20-22", pagode anos 90+): marca o tempo 1 junto com o surdo. Frequência ~50-80Hz. Ataque seco, pouco sustain.
-- **Prato de condução** (ride/crash leve): semicolcheias abertas, sem acentuação. Frequência ~3-8kHz para o brilho, ~400Hz-1kHz para o corpo. Caimbal praticamente inexistente ou muito esparso.
-- **Tom-tons**: usados só em viradas, não conduzem. Raramente aparecem no groove principal.
+- **Surdo** (18-20"): golpe grave no tempo 1 ("bum"), golpe agudo/slap no tempo 2 ("pa"). Frequência fundamental ~60-100Hz, harmônicos até ~800Hz. O som do surdo é quente e ressonante, com decay natural — não é seco e comprimido como rock, nem arrastado como na escola de samba.
+- **Caixa** (14" em madeira): ghost notes leves em semicolcheia, sem backbeat, sem agressividade. Frequência ~150-250Hz para o corpo, ~2-4kHz para o estalo do aro. Som orgânico com esteira solta — a caixa respira, não é um estalo metálico de rock.
+- **Bumbo** (18-20"): marca o tempo 1 junto com o surdo. Frequência ~50-80Hz. Som ressonante mas controlado, com feltro ou baqueta macia — não é bumbo de rock com click agressivo.
+- **Prato de condução** (dark ride 20-22"): semicolcheias com stick definition claro e wash moderado. Timbre escuro ("shhhh"), não brilhante ("TSSSS"). Chimbal praticamente inexistente ou muito esparso.
+- **Tom-tons**: usados só em viradas, não conduzem. Som encorpado mas não boomy. Raramente aparecem no groove principal.
 
 ### Frequências-Chave para Separação
 | Elemento | Faixa Dominante | Característica |
 |---|---|---|
-| Surdo (bum) | 60-100Hz | Grave, seco, tempo 1 |
+| Surdo (bum) | 60-100Hz | Grave, ressonante, tempo 1 |
 | Surdo (pa) | 200-400Hz | Médio, slap, tempo 2 |
-| Bumbo | 50-80Hz | Ataque seco, reforça tempo 1 |
-| Caixa (corpo) | 150-250Hz | Ghost notes contínuas |
-| Caixa (aro/estalo) | 2-5kHz | Rim shot esparso |
-| Prato | 3-8kHz | Condução em semicolcheia |
-| Tons | 100-300Hz | Viradas ocasionais |
+| Bumbo | 50-80Hz | Ressonante mas controlado, reforça tempo 1 |
+| Caixa (corpo) | 150-250Hz | Ghost notes leves, esteira solta |
+| Caixa (aro/estalo) | 2-4kHz | Rim shot esparso, não agressivo |
+| Prato | 2-6kHz | Dark ride, wash moderado, semicolcheia |
+| Tons | 100-300Hz | Viradas ocasionais, som encorpado |
 
 ### Padrão Rítmico Característico
 ```
@@ -42,4 +42,4 @@ Prato:  x . x . x . x . | x . x . x . x .
 4. **Bumbo vs surdo**: No pagode com bumbo, ambos tocam no tempo 1. O bumbo tem ataque mais seco e click em ~3-5kHz; o surdo tem mais corpo e ressonância.
 
 ### Contexto de Mistura
-No samba/pagode, a bateria não é dominante como no rock. Ela **conversa** com a percussão e o baixo. O surdo e o bumbo formam a fundação rítmica вместе com o tantã e o chocalho. A caixa é textura, não ударный элемент de destaque.
+No samba contemporâneo, a bateria é **textura e fundação**, não agressividade. O baterista toca como um percussionista de jazz — com dinâmica, sutileza e escuta constante. A caixa é fofa, os pratos são escuros, o bumbo respira. A bateria **conversa** com a percussão e o baixo; o surdo e o bumbo formam a fundação rítmica junto com o tantã e o chocalho; a caixa é textura, não elemento de destaque. Se soa como rock, está errado — deve soar como uma roda de samba amplificada com bom gosto.

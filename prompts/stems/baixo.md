@@ -1,24 +1,26 @@
 # Stem: Baixo — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (Fender Jazz Bass, cordas roundwound .045-.100, Ampli Ampeg SVT + gabinete 15"). Mesmo baixo, mesmos ajustes, em toda a sessão.
+> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos. Preferência por contrabaixo acústico (upright) para samba; Fender Jazz Bass com flatwound para pagode. Amplificação orgânica (combo pequeño valve + DI), não Ampeg SVT de rock.
 
 ## Identificação Sonora
 
-### Contrabaixo Elétrico (predominante)
-O baixo no samba/pagode não é walking bass de jazz. É um contraponto rítmico que desenha a harmonia enquanto conversa com o surdo.
+### Contrabaixo Acústico (referência principal) e Baixo Elétrico (pagode)
+O baixo no samba/pagode não é walking bass de jazz. É um contraponto rítmico que desenha a harmonia enquanto conversa com o surdo. Preferência pelo contrabaixo acústico (upright) como timbre ideal; o baixo elétrico entra quando a música pede mais projeção.
 
 **Características timbricas:**
-- **Ataque percussivo**: o baixista brasileiro ataca as notas com o polegar (dedilhado) ou palheta, produzindo um som mais percussivo que round
+- **Contrabaixo acústico**: timbre quente e "woody", ataque definido mas não agressivo, com ressonância da caixa do instrumento. Referência: Edison Machado, Luis Marinho, Itamar Assiere
+- **Baixo elétrico (Jazz Bass, flatwound)**: warmth e definição sem brilho excessivo. Referência: Délcio Luiz (mas com cordas flatwound para som mais contemporary e menos agressivo)
 - **Registro médio-grave** no samba (~80-250Hz fundamental), **médio-agudo** no pagode (~100-400Hz fundamental)
-- **Staccato**: notas curtas, pouco sustain, muito silêncio entre notas
-- **Decay rápido**: notas não se arrastam como no jazz ou funk
+- **Staccato**: notas curtas, muito silêncio entre notas — o espaço é tão importante quanto o som
+- **Decay natural**: notas não se arrastam como no funk, nem sustentam como no jazz walking
 
 ### Frequências-Chave para Separação
 | Elemento | Faixa Dominante | Característica |
 |---|---|---|
 | Fundamental | 65-200Hz | Notas principais |
-| Ataque / click do polegar | 500Hz-2kHz | Transiente percussivo |
-| Harmônicos de palheta | 1-4kHz | Presente no pagode anos 90 |
+| Ataque (upright) | 200Hz-1kHz | Transiente "woody" do contrabaixo |
+| Ataque (elétrico) | 500Hz-2kHz | Click do polegar/palheta macia |
+| Harmônicos (flatwound) | 1-3kHz | Brilho contido, sustentado |
 | Slides / gliss | 80-300Hz (varredura) | Transição cromática entre notas |
 
 ### Padrão Rítmico Característico
@@ -47,8 +49,8 @@ Fundamental no tempo 1 → passing tone cromática → nota de preparação no t
 |---|---|---|
 | Notas | Menos notas, mais espaços | Mais notas, mais staccato |
 | Registro | Médio-grave | Médio-agudo, "puxadas" pra oitava |
-| Técnica | Polegar (dedilhado) | Polegar ou palheta |
-| Timbre | Mais round, mais warm | Mais percussivo, mais bite |
+| Instrumento | Contrabaixo acústico (preferência) | Baixo elétrico Jazz Bass flatwound |
+| Timbre | Warm, woody, orgânico | Definido, presente, mas não agressivo |
 
 ### Nota de Apoio
 Quando a harmonia pede tensão (9ª, 11ª, 13ª), o baixista brasileiro **não sustenta** — passa por ela como nota de aproximação, resolvendo na terça ou sétima no contratempo. Isso evita dissonância prolongada que descaracteriza o samba.

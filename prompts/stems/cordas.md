@@ -7,7 +7,7 @@
 ### Instrumentos
 - **Violão** (nylon ou aço): levada rítmica, percussiva
 - **Cavaquinho**: metrônomo harmônico, semicolcheia constante
-- **Banjo** (pagode): levada do cavaquinho com timbre mais agressivo
+- **Banjo** (pagode): levada do cavaquinho com timbre mais presente e metálico
 
 ---
 
@@ -42,8 +42,8 @@ Dedos (tapa):   . . x . . . x .   → acorde agudo abafado, contratempo
 ### Violão de Nylon vs Aço
 | | Nylon | Aço |
 |---|---|---|
-| Uso | Samba tradicional, choro | Pagode anos 90+ |
-| Timbre | Mais warm, ataque mais soft | Mais brilhante, ataque mais definido |
+| Uso | Samba tradicional, choro | Pagode contemporâneo |
+| Timbre | Mais warm, ataque mais soft | Mais definido, mais projeção |
 | Graves | Menos projados | Mais projados |
 | Tapa | Mais percussivo, mais "sujo" | Mais definido, menos abafamento |
 
@@ -81,7 +81,7 @@ Acentuação: batidas no contratempo (2ª semicolcheia de cada tempo) são mais 
 ### Características Timbricas
 O banjo no pagode é **afinado como cavaquinho** (D-G-B-E), mas com timbre mais estridente e metálico.
 
-- **Ataque mais agressivo** que o cavaquinho (palhetada mais dura)
+- **Ataque mais presente** que o cavaquinho (palhetada definida, não brutal)
 - **Slides e hammer-ons** para ligar notas entre acordes
 - **Uso do aro** para efeitos percussivos
 - Toca a **mesma levada** do cavaquinho
@@ -90,7 +90,7 @@ O banjo no pagode é **afinado como cavaquinho** (D-G-B-E), mas com timbre mais 
 | Elemento | Faixa Dominante | Característica |
 |---|---|---|
 | Fundamental | 400-900Hz | Acordes, uma oitava acima do violão |
-| Brilho metálico | 3-10kHz | Resonância do aro, palhetada agressiva |
+| Brilho metálico | 3-10kHz | Resonância do aro, palhetada presente |
 | Corpo percussivo | 800Hz-3kHz | Ataque do aro |
 
 ---

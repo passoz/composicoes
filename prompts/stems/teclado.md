@@ -1,26 +1,26 @@
 # Stem: Teclado — Samba & Pagode Brasileiro
 
-> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos (piano acústico Yamaha C3 para samba; E.Piano DX7/Rhodes para pagode 90s; Nord Stage para pagode 2000s+). Mesmo instrumento e ajustes por estilo, em toda a sessão.
+> **Kit fixo:** Ver `identidade-da-banda.md` para modelos e timbres específicos. Piano acústico Yamaha C3 como referência principal; Rhodes ou piano digital warm para pagode contemporâneo. Evitar timbres metálicos/agressivos de teclado anos 90.
 
 ## Identificação Sonora
 
-### Piano Acústico e Teclados Digitais (pagode anos 90)
-O teclado no samba/pagode é **rítmico e percussivo**, não harmônico e lírico como no jazz. Ataca no contratempo com acordes fechados (close voicings).
+### Piano Acústico e Teclados (samba contemporâneo)
+O teclado no samba/pagode é **rítmico e percussivo**, não harmônico e lírico como no jazz. Ataca no contratempo com acordes fechados (close voicings). Mas "percussivo" no samba significa preciso e definido — não agressivo e forte como no rock.
 
 **Características timbricas:**
-- **Ataque seco**: notas curtas, pouco pedal de sustain, muito staccato
+- **Ataque definido mas warm**: notas curtas, pouco pedal de sustain, staccato — com toque de dedo, não de martelo
 - **Close voicings** na mão direita (4 notas juntas: fundamental+3ª+5ª+7ª)
 - **Oitavas** ou **uníssonos** na mão esquerda, sincronizados com o baixo
 - **Registro médio-agudo**: o teclado toca predominantemente entre Dó3 e Sol5
-- **Timbre**: nos anos 90, frequentemente piano digital/epiano com ataque curto e pouco decay. Nos sambas mais tradicionais, piano acústico com tratamento percussivo.
+- **Timbre**: piano acústico com ressonância natural da caixa é a referência principal. Para pagode contemporâneo, Rhodes ou piano digital warm (não o DX7 brilhante e agressivo dos anos 90)
 
 ### Frequências-Chave para Separação
 | Elemento | Faixa Dominante | Característica |
 |---|---|---|
 | Mão esquerda (oitavas) | 65-250Hz | Oitavas do baixo, fundamental |
 | Mão direita (acordes) | 300Hz-2.5kHz | Close voicings, médio-agudo |
-| Ataque percussivo | 2-5kHz | Transiente do teclado/piano |
-| Brilho do teclado digital | 4-8kHz | Timbre E.Piano, ataque metálico |
+| Ataque percussivo | 1-4kHz | Transiente do piano, warm e definido |
+| Brilho do piano | 4-8kHz | Harmônicos naturais do piano acústico |
 
 ### Padrão Rítmico Característico
 ```
@@ -49,12 +49,12 @@ No pagode sem cavaquinho, o teclado copia a levada do cavaco:
 3. **Evita 11ª em acordes maiores** (a menos que seja subV ou tom menor paralelo)
 4. **Tritono** — usado em dominantes, mas resolvido rápido
 
-### Diferenças Timbricas por Época
-| Período | Timbre | Característica |
+### Diferenças Timbricas por Contexto
+| Contexto | Timbre | Característica |
 |---|---|---|
-| Samba 60s-80s | Piano acústico | Mais warm, mais corpo médio |
-| Pagode 90s | Teclado digital/E.Piano | Ataque curt, brilho metálico, pouco sustain |
-| Pagode 2000s+ | Piano digital + synth pads | Mais camadas, mas base rítmica continua igual |
+| Samba (referência) | Piano acústico | Warm, com ressonância da caixa, toque definido |
+| Pagode contemporâneo | Rhodes ou piano digital warm | Ataque definido, corpo médio, brilho contido |
+| Samba de mesa íntimo | Piano acústico com pouco processamento | Som de sala, orgânico, como gravado ao vivo |
 
 ### Armadilhas Comuns na Separação
 1. **Teclado vs cavaquinho**: Compartilham frequências (~300Hz-2kHz) e padrão rítmico (contratempo em semicolcheia). O cavaquinho tem timbre mais agudo e metálico; o teclado tem ataque mais "quadrado" e sem resonância de corda.
